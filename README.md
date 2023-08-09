@@ -26,4 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adip071020&theme=dark" alt="adip071020" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adip071020&show_icons=true&locale=en" alt="radyaharbani" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adip071020&theme=onedark&show_icons=true&locale=en" alt="radyaharbani" /></p>
