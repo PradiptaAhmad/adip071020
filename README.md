@@ -1,3 +1,4 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Retakka</h1>
 <h3 align="center">Android Development from Indonesia</h3>
 
@@ -24,3 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adip071020&show_icons=true&theme=dark&locale=en&layout=compact" alt="adip071020" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adip071020&theme=dark" alt="adip071020" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=radyaharbani&show_icons=true&locale=en" alt="radyaharbani" /></p>
