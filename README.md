@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Retakka</h1>
-<h3 align="center">Android Development from Indonesia</h3>
+<h1 align="center">Hi 👋, I'm Ahmad Pradipta</h1>
+<h3 align="center">Android Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adip071020&label=Profile%20views&color=0e75b6&style=flat-square" alt="adip071020" /> </p>
 
