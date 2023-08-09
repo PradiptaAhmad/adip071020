@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adip</h1>
-<h3 align="center">App Development from Indonesia</h3>
+<h3 align="center">Android Development from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adip071020&label=Profile%20views&color=0e75b6&style=flat-square" alt="adip071020" /> </p>
 
@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **pradiptaahmad8@gmail.com**
 
-- ⚡ Fun fact **hehe**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
