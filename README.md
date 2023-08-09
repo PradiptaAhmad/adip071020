@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adip</h1>
+<h1 align="center">Hi 👋, I'm Retakka</h1>
 <h3 align="center">Android Development from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adip071020&label=Profile%20views&color=0e75b6&style=flat-square" alt="adip071020" /> </p>
